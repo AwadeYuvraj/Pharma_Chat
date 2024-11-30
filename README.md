@@ -18,18 +18,11 @@ Clone the repository to your local machine.
 2. Create a Virtual Environment
 Use the following command to create a virtual environment for the project:
 
-1. python -m venv venv
-2. Activate the Virtual Environment
-3. To activate the virtual environment, use the appropriate command based on your operating system:
-
-Linux/Mac: source venv/bin/activate
-Windows Command Prompt: venv\Scripts\activate
-Windows PowerShell: .\venv\Scripts\Activate.ps1
-Install Dependencies
-Once the virtual environment is activated, install the required dependencies by running:
-
-pip install -r requirements.txt
-Run the Application
+1) . python -m venv venv
+2) . Activate the Virtual Environment
+3) . To activate the virtual environment, use the appropriate command based on your operating system:
+4) .pip install -r requirements.txt
+5). Run the Application
 To run the application, use the following command:
 
 python app.py
