@@ -12,15 +12,15 @@ Efficient database storage and querying.
 Getting Started
 To get started with this project, follow these simple steps:
 
-Clone the Repository
+1. Clone the Repository
 Clone the repository to your local machine.
 
-Create a Virtual Environment
+2. Create a Virtual Environment
 Use the following command to create a virtual environment for the project:
 
-python -m venv venv
-Activate the Virtual Environment
-To activate the virtual environment, use the appropriate command based on your operating system:
+1. python -m venv venv
+2. Activate the Virtual Environment
+3. To activate the virtual environment, use the appropriate command based on your operating system:
 
 Linux/Mac: source venv/bin/activate
 Windows Command Prompt: venv\Scripts\activate
