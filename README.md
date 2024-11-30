@@ -36,10 +36,10 @@ python app.py
 You can then open your browser and navigate to http://127.0.0.1:5000 to interact with the app.
 
 Technologies Used
-Flask: Backend framework for building the application.
-Google Generative AI: For providing AI-powered responses to user queries.
-Python-dotenv: For managing environment variables securely.
-Gemini Models: Used for image analysis and enhanced response generation.
+1. Flask: Backend framework for building the application.
+2. Google Generative AI: For providing AI-powered responses to user queries.
+3. Python-dotenv: For managing environment variables securely.
+4. Gemini Models: Used for image analysis and enhanced response generation.
 
 ![image](https://github.com/user-attachments/assets/82e3417f-6eaa-4c43-b421-606099404b17)
 
