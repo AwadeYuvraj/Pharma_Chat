@@ -34,5 +34,3 @@ Technologies Used
 3. Python-dotenv: For managing environment variables securely.
 4. Gemini Models: Used for image analysis and enhanced response generation.
 
-![image](https://github.com/user-attachments/assets/82e3417f-6eaa-4c43-b421-606099404b17)
-
